@@ -15,7 +15,7 @@ To leverage this framework for your testing endeavors, follow these steps:
 1. **Clone the Repository:**
    Download the repository or clone it using the following command:
    ```bash
-   git clone https://github.com/your-username/Playwright_PageObjectModel.git
+   [git clone https://github.com/your-username/Playwright_PageObjectModel.git](https://github.com/aliqaengineer05/Playwright.git)
    ```
 
 2. **Check Node.js Version:**
