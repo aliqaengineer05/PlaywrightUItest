@@ -8,7 +8,6 @@ export class LoginPage {
         this.password = page.getByPlaceholder('Password');
         this.login_button = page.locator('//input[@type="submit"]');
         this.myaccount = page.locator('//*[@id="content"]/div[2]/h2');
-
     }
 
     async gotoLoginPage(){
